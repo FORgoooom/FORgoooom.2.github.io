@@ -154,15 +154,15 @@
     cout << string << " : " << ptr << endl;
     ```
     
-    - 출력값
-        
-        **This is my world : 16 //문자열의 길이에서 null은 포함되지 않는다.**
-        
-        **is my world:my world // 문자열 + n 출력 시 n번째 문자부터 null까지 출력한다.**
-        
-        **This is my w : This is my w //**
-        
-        **This is my w : his is my w**
+      - 출력값
+
+          This is my world : 16 //문자열의 길이에서 null은 포함되지 않는다.
+
+          is my world:my world // 문자열 + n 출력 시 n번째 문자부터 null까지 출력한다.
+
+          This is my w : This is my w 
+
+          This is my w : his is my w
         
 
 1. 동적 메모리 할당
